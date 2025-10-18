@@ -233,9 +233,9 @@ Siempre estoy abierto a nuevas oportunidades y proyectos interesantes, especialm
 
 [![Email](https://img.shields.io/badge/Email-rudygb2030%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudygb2030@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudy_Gomez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-gomez-bellido-72197533b/)
-[![GitHub](https://img.shields.io/badge/GitHub-R0G8B-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0G8B)
+[![GitHub](https://img.shields.io/badge/GitHub-rudygomez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudy-gomez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+51_949_241_962-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/949241962)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visita_mi_web-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visita_mi_web-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rudygomez-portfolio.netlify.app/)
 
 </div>
 
