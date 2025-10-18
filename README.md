@@ -115,7 +115,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express` `SQL Server`
 
 [![Demo](https://img.shields.io/badge/🌐-Ver_Demo-00FFFF?style=for-the-badge)](https://qori-wayra-reservas.netlify.app/)
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/R0G8B)
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
 
 ---
 
@@ -129,7 +129,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 **Tech Stack:** `C#` `Windows Forms` `SQLite`
 
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/R0G8B)
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
 
 ---
 
@@ -144,7 +144,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 **Tech Stack:** `Flutter` `Dart`
 
 [![Demo](https://img.shields.io/badge/🌐-Ver_Demo-00FFFF?style=for-the-badge)](https://sortea-facil.netlify.app/)
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/R0G8B)
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
 
 ---
 
@@ -158,7 +158,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 **Tech Stack:** `Flutter` `Dart` `Hive`
 
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/R0G8B)
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
 
 </div>
 
