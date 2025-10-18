@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=008080&center=true&vCenter=true&width=700&lines=Ingeniero+de+Sistemas+en+formación;Desarrollador+Full+Stack;Especialista+en+Flutter+%26+C%2B%2B;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=008080&center=true&vCenter=true&width=700&lines=Ingeniero+de+Sistemas+en+formación;Desarrollador+Full+Stack;Especialista+en+Flutter;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=R0G8B&color=00ffff&style=flat-square)
 
@@ -14,16 +14,11 @@
 
 <table>
 <tr>
-<td width="60%">
 
 Soy un **estudiante apasionado de Ingeniería de Sistemas** en la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), enfocado en el desarrollo de software y la creación de soluciones tecnológicas innovadoras. 
 
 Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web modernas** y **sistemas de gestión empresarial**.
 
-</td>
-<td width="40%">
-<img src="https://i.imgur.com/TU_IMAGEN_AQUI.jpg" alt="Rudy Gomez" width="250" style="border-radius: 15px;"/>
-</td>
 </tr>
 </table>
 
@@ -95,14 +90,13 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 <div align="center">
 
-<a href="https://github.com/R0G8B">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0G8B&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0G8B&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8"/>
+<a href="https://github.com/rudy-gomez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudy-gomez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-gomez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8"/>
 </a>
 
 </div>
 
-</div>
 
 ---
 
@@ -112,7 +106,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 ### 🚌 Sistema de Gestión de Reservas - Qori Wayra
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/mockups/qoriwayra.png" alt="Qori Wayra" width="600"/>
+<img src="qoriwayra.png" alt="Qori Wayra" width="300"/>
 
 **Plataforma completa de reserva de pasajes en línea**
 
@@ -127,7 +121,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 ### ⛽ Sistema de Ventas - K@serito Gas
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/mockups/gasSystem.png" alt="K@serito Gas" width="600"/>
+<img src="gasSystem.png" alt="K@serito Gas" width="300"/>
 
 **Sistema completo de gestión de ventas de gas**
 
@@ -141,7 +135,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 ### 🎲 SorteaFácil
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/mockups/sorteafacil.png" alt="SorteaFácil" width="600"/>
+<img src="sorteafacil.png" alt="SorteaFácil" width="300"/>
 
 **App Flutter para sorteos dinámicos**
 
@@ -156,7 +150,7 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 ### 💰 Group Fund Tracker
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/mockups/groupwallet.png" alt="Group Fund Tracker" width="600"/>
+<img src="groupwallet.png" alt="Group Fund Tracker" width="300"/>
 
 **Gestión inteligente de gastos grupales**
 
@@ -176,15 +170,15 @@ Me especializo en **Backend, desarrollo móvil con Flutter**, **aplicaciones web
 
 | Lenguaje/Tecnología | Nivel | Barra de Progreso |
 |:---:|:---:|:---:|
-| **JavaScript** | Avanzado | ![75%](https://progress-bar.dev/75?color=F7DF1E) |
-| **HTML/CSS** | Avanzado | ![75%](https://progress-bar.dev/75?color=E34F26) |
-| **Dart/Flutter** | Intermedio | ![65%](https://progress-bar.dev/65?color=0175C2) |
-| **SQL Server** | Intermedio | ![60%](https://progress-bar.dev/60?color=CC2927) |
-| **SQLite** | Intermedio | ![65%](https://progress-bar.dev/65?color=07405E) |
-| **Java** | Intermedio | ![55%](https://progress-bar.dev/55?color=ED8B00) |
-| **Node.js** | Intermedio | ![45%](https://progress-bar.dev/45?color=43853D) |
-| **Python** | Básico | ![45%](https://progress-bar.dev/45?color=3776AB) |
-| **Git/GitHub** | Avanzado | ![90%](https://progress-bar.dev/90?color=F05032) |
+| JavaScript | Avanzado | ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E) |
+| HTML/CSS | Avanzado | ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-75%25-E34F26) |
+| Dart/Flutter | Intermedio | ![Dart/Flutter](https://img.shields.io/badge/Dart/Flutter-65%25-0175C2) |
+| SQL Server | Intermedio | ![SQL Server](https://img.shields.io/badge/SQL%20Server-60%25-CC2927) |
+| SQLite | Intermedio | ![SQLite](https://img.shields.io/badge/SQLite-65%25-07405E) |
+| Java | Intermedio | ![Java](https://img.shields.io/badge/Java-55%25-ED8B00) |
+| Node.js | Intermedio | ![Node.js](https://img.shields.io/badge/Node.js-45%25-43853D) |
+| Python | Básico | ![Python](https://img.shields.io/badge/Python-45%25-3776AB) |
+| Git/GitHub | Avanzado | ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-90%25-F05032) |
 
 </div>
 
@@ -253,7 +247,7 @@ Siempre estoy abierto a nuevas oportunidades y proyectos interesantes, especialm
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-⭐️ From [R0G8B](https://github.com/R0G8B) con 💙 y mucho ☕
+⭐️ From [rudy-gomez](https://github.com/rudy-gomez) con 💙 y mucho ☕
 
 **Última actualización:** Octubre 2025
 
