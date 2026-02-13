@@ -86,38 +86,10 @@ Me especializo en **desarrollo móvil con Flutter**, **aplicaciones web modernas
 </div>
 
 ---
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<a href="https://github.com/rudy-gomez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudy-gomez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy-gomez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8&cache_seconds=1800"/>
-</a>
-
-</div>
-
-
----
 
 ## 🏆 Proyectos Destacados
 
 <div align="center">
-
-### 📱 Scan2Sheets - Sistema de Inventario Inteligente
-
-<img src="scan2sheets.png" alt="Scan2Sheets" width="300"/>
-
-**App móvil Flutter para gestión de inventario con escaneo de códigos**
-
-🔹 Escaneo QR/Barras | 📊 Sync Google Sheets | 🔐 Sistema de licencias Firebase | 👥 Gestión multi-usuario | 📉 Control de stock y vencimientos
-
-**Tech Stack:** `Flutter` `Dart` `Firebase` `Google Sheets API`
-
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
-
----
-
 ### 🚌 Sistema de Gestión de Reservas - Qori Wayra
 
 <img src="qoriwayra.png" alt="Qori Wayra" width="300"/>
@@ -178,25 +150,6 @@ Me especializo en **desarrollo móvil con Flutter**, **aplicaciones web modernas
 
 ---
 
-## 📚 Nivel de Habilidades
-
-<div align="center">
-
-| Lenguaje/Tecnología | Nivel | Progreso |
-|:---:|:---:|:---:|
-| JavaScript | Avanzado | ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E) |
-| HTML/CSS | Avanzado | ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-75%25-E34F26) |
-| Dart/Flutter | Intermedio-Avanzado | ![Dart/Flutter](https://img.shields.io/badge/Dart/Flutter-70%25-0175C2) |
-| SQL Server | Intermedio | ![SQL Server](https://img.shields.io/badge/SQL%20Server-60%25-CC2927) |
-| SQLite | Intermedio | ![SQLite](https://img.shields.io/badge/SQLite-65%25-07405E) |
-| Java | Intermedio | ![Java](https://img.shields.io/badge/Java-55%25-ED8B00) |
-| Node.js | Intermedio | ![Node.js](https://img.shields.io/badge/Node.js-50%25-43853D) |
-| Git/GitHub | Avanzado | ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-85%25-F05032) |
-
-</div>>
-
----
-
 ## 🎓 Educación & Certificaciones
 
 ### 🏛️ Universidad Nacional de San Cristóbal de Huamanga
@@ -217,16 +170,6 @@ Me especializo en **desarrollo móvil con Flutter**, **aplicaciones web modernas
 - Arquitectura de microservicios
 - Buenas prácticas de programación
 - Proyectos colaborativos
-
----
-
-## 🎯 Objetivos 2026
-
-- 🎓 Dominar Spring Boot y arquitectura de microservicios
-- 📱 Publicar mi primera app en Google Play Store
-- ☁️ Aprender desarrollo en la nube (AWS/Firebase)
-- 💼 Conseguir mi primera práctica profesional
-- 🚀 Contribuir a proyectos open source
 
 ---
 
