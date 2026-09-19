@@ -1,212 +1,129 @@
-# 👋 ¡Hola! Soy Rudy Gomez Bellido
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=008080&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingeniería+de+Sistemas;Desarrollador+Full+Stack;Apasionado+por+Flutter;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=R0G8B&color=00ffff&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c9a7&height=220&section=header&text=RUDY%20GOMEZ%20BELLIDO&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Flutter%20%7C%20Java%20Backend&descAlignY=55&descSize=20&descColor=b5f5ec"/>
+
+<a href="https://www.linkedin.com/in/rudy-gomez-bellido-72197533b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rudygb2030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/949241962"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://github.com/R0G8B"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%40+UNSCH;Construyendo+apps+con+Flutter+%F0%9F%92%99;Especializ%C3%A1ndome+en+Backend+con+Java+%E2%98%95;Oracle+Next+Education+%40+Alura+Latam"/>
 
 </div>
 
----
+<br>
 
-## 🚀 Sobre Mí
-
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="58%" valign="top">
 
-Soy un **estudiante apasionado de Ingeniería de Sistemas** en la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), enfocado en el desarrollo de software y la creación de soluciones tecnológicas que resuelven problemas reales. 
+### ⚡ Quién soy
 
-Me especializo en **desarrollo móvil con Flutter**, **aplicaciones web modernas** y **sistemas de gestión empresarial**, con un enfoque especial en backend con Java y Node.js.
+Estudio **Ingeniería de Sistemas** en la UNSCH y me obsesiona convertir ideas en productos que la gente realmente usa. Construyo apps móviles con **Flutter**, sistemas web con **Node.js**, y ahora mismo profundizo en **backend con Java y arquitectura de software** vía Oracle Next Education.
+
+En 2025 fui **ponente en el congreso COSEIN-2025** (UNSLG) presentando un trabajo sobre detección de epilepsia infantil con Deep Learning aplicado a señales EEG — la investigación también me atrae, no solo el código.
+
+> *"No busco solo que compile — busco que resuelva algo real."*
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 💼 Estado Actual
-
-- 🎓 Estudiante de **Ingeniería de Sistemas** en UNSCH (5to semestre - 2022-2027)
-- 🔭 Participando en **Oracle Next Education** con Alura Latam
-- 🌱 Especializándome en **Backend con Java** y arquitectura de software
-- 💡 Desarrollando proyectos con **Flutter**, **Node.js** y **SQL Server**
-- 👯 Abierto a colaboraciones en proyectos innovadores y prácticas profesionales
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 💻 Lenguajes de Programación
+## 🧩 Tecnologías
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,dart,java,cs,flutter,nodejs,express,html,css&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mssql,sqlite,postgres,firebase,git,github,docker,vscode&theme=dark" />
 
 </div>
 
-### 🎯 Frameworks & Tecnologías
+<br>
+
+## 🚀 Proyectos
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://qori-wayra-reservas.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=qori-wayra&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
+</a>
+<a href="https://github.com/R0G8B">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=kaserito-gas&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
+</a>
+
+<a href="https://sortea-facil.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=sorteafacil&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
+</a>
+<a href="https://github.com/R0G8B">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=group-fund-tracker&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
+</a>
 
 </div>
 
-### 🗄️ Bases de Datos
+<p align="center"><sub>💡 Estas tarjetas se generan solas desde tus repos — solo asegúrate de que el <code>repo=</code> coincida con el nombre exacto en tu GitHub, y de tenerlos públicos con una buena descripción/topics.</sub></p>
+
+<br>
+
+## 📈 Actividad
 
 <div align="center">
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R0G8B&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=R0G8B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00C9A7&title_color=00C9A7" width="32%"/>
+<img src="https://streak-stats.demolab.com/?user=R0G8B&theme=tokyonight&hide_border=true&ring=00C9A7&fire=00C9A7" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0G8B&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7" width="32%"/>
 
 </div>
 
-### 🔧 Herramientas & DevOps
+<br>
+
+## 🏆 Trofeos
 
 <div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<img src="https://github-profile-trophy.vercel.app/?username=R0G8B&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 </div>
 
----
+<br>
 
-## 🏆 Proyectos Destacados
+## 🐍 Contribuciones (animado)
 
 <div align="center">
-### 🚌 Sistema de Gestión de Reservas - Qori Wayra
-
-<img src="qoriwayra.png" alt="Qori Wayra" width="300"/>
-
-**Plataforma completa de reserva de pasajes en línea**
-
-✨ Sistema de pagos integrado | 📧 Boletas automáticas | 👨‍💼 Panel administrativo
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express` `SQL Server`
-
-[![Demo](https://img.shields.io/badge/🌐-Ver_Demo-00FFFF?style=for-the-badge)](https://qori-wayra-reservas.netlify.app/)
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
-
----
-
-### ⛽ Sistema de Ventas - K@serito Gas
-
-<img src="gasSystem.png" alt="K@serito Gas" width="300"/>
-
-**Sistema completo de gestión de ventas de gas**
-
-📊 Reportes automáticos | 📈 Gráficos visuales | 🖥️ Interfaz intuitiva
-
-**Tech Stack:** `C#` `Windows Forms` `SQLite`
-
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
-
----
-
-### 🎲 SorteaFácil
-
-<img src="sorteafacil.png" alt="SorteaFácil" width="300"/>
-
-**App Flutter para sorteos dinámicos y aleatorios**
-
-🎨 Temas personalizables | ⚡ Rendimiento optimizado | 📱 Diseño nativo
-
-**Tech Stack:** `Flutter` `Dart`
-
-[![Demo](https://img.shields.io/badge/🌐-Ver_Demo-00FFFF?style=for-the-badge)](https://sortea-facil.netlify.app/)
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
-
----
-
-### 💰 Group Fund Tracker
-
-<img src="groupwallet.png" alt="Group Fund Tracker" width="300"/>
-
-**Gestión inteligente de gastos grupales**
-
-💸 Control de gastos | 📄 Reportes PDF | 📊 Análisis financiero
-
-**Tech Stack:** `Flutter` `Dart` `Hive`
-
-[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
-
+<img src="https://raw.githubusercontent.com/R0G8B/R0G8B/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+<p align="center"><sub>👆 Esta serpiente animada se genera sola a partir de tu mapa de contribuciones — te dejo el archivo de configuración abajo para activarla en 2 minutos.</sub></p>
 
-## 🎓 Educación & Certificaciones
+<br>
 
-### 🏛️ Universidad Nacional de San Cristóbal de Huamanga
-**Ingeniería de Sistemas** | 5to Semestre (2022 - 2027)
-- 📚 Enfoque en desarrollo de software y análisis de sistemas
-- 💻 Proyectos prácticos y desarrollo de aplicaciones reales
-- 🏆 Participación en competencias de programación
+## 🎓 Educación & Charlas
 
-### 🎤 Ponente - Universidad Nacional San Luis Gonzaga
-**II Congreso de Semilleros de Investigación "COSEIN-2025"** | 2025
-- 🧠 **Trabajo:** "Detection of Childhood Epilepsy Based on Canonical Brain Rhythms from EEG Signals and Deep Learning"
-- 🏅 Certificado otorgado por el Vicerrectorado de Investigación e Instituto de Investigación
-- 🔬 Aplicación de Deep Learning en señales biomédicas
+<table width="100%">
+<tr><td width="33%" align="center">🏛️<br><b>UNSCH</b><br><sub>Ing. de Sistemas · 2022–2027</sub></td>
+<td width="33%" align="center">🎤<br><b>COSEIN-2025</b><br><sub>Ponente · Deep Learning + EEG</sub></td>
+<td width="33%" align="center">☕<br><b>Oracle Next Education</b><br><sub>Backend Java · Alura Latam</sub></td></tr>
+</table>
 
-### ☕ Oracle Next Education - Alura Latam
-**Especialidad Backend con Java** | 2025 - En curso
-- Desarrollo Backend con Java y Spring Boot
-- Arquitectura de microservicios
-- Buenas prácticas de programación
-- Proyectos colaborativos
-
----
-
-## 🤝 Colaboremos Juntos
-
-Siempre estoy abierto a nuevas oportunidades, proyectos interesantes y aprendizaje continuo:
-
-- 📱 Desarrollo de aplicaciones móviles con Flutter
-- 🌐 Sistemas web full-stack con Node.js o Java
-- 🗄️ Diseño de bases de datos y APIs REST
-- 🎯 Proyectos de impacto social y educativo
-- 🏆 Competencias de programación y hackathons
-- 💼 Oportunidades de prácticas pre-profesionales
-
----
-
-## 📫 Conecta Conmigo
+<br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rudygb2030%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudygb2030@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudy_Gomez_Bellido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-gomez-bellido-72197533b/)
-[![GitHub](https://img.shields.io/badge/GitHub-R0G8B-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0G8B)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+51_949_241_962-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/949241962)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:203a43,100:0f2027&height=150&section=footer"/>
 
-</div>
-
----
-
-<div align="center">
-
-### 🌟 "Aprendiendo cada día, programando cada noche" 🌟
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-⭐️ From [Rudy Gomez](https://github.com/rudy-gomez) con 💙 y mucho ☕
-
-**Última actualización:** Febrero 2025
+**⭐ Si algo de esto te sirvió, un fork o una estrella se agradece.**
 
 </div>
