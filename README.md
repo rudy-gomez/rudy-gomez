@@ -14,7 +14,13 @@
 </div>
 
 <br>
+<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=R0G8B&color=00c9a7&style=flat-square)
+
+</div>
+
+<br>
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
@@ -52,63 +58,70 @@ En 2025 fui **ponente en el congreso COSEIN-2025** (UNSLG) presentando un trabaj
 
 <br>
 
-## 🚀 Proyectos
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
-<a href="https://qori-wayra-reservas.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=qori-wayra&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
-</a>
-<a href="https://github.com/R0G8B">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=kaserito-gas&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
-</a>
+### 🚌 Sistema de Gestión de Reservas - Qori Wayra
 
-<a href="https://sortea-facil.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=sorteafacil&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
-</a>
-<a href="https://github.com/R0G8B">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=R0G8B&repo=group-fund-tracker&theme=tokyonight&title_color=00C9A7&icon_color=00C9A7&hide_border=true&description_lines_count=2" width="47%"/>
-</a>
+<img src="qoriwayra.png" alt="Qori Wayra" width="300"/>
+
+**Plataforma completa de reserva de pasajes en línea**
+
+✨ Sistema de pagos integrado | 📧 Boletas automáticas | 👨‍💼 Panel administrativo
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express` `SQL Server`
+
+[![Demo](https://img.shields.io/badge/🌐-Ver_Demo-00FFFF?style=for-the-badge)](https://qori-wayra-reservas.netlify.app/)
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
+
+---
+
+### ⛽ Sistema de Ventas - K@serito Gas
+
+<img src="gasSystem.png" alt="K@serito Gas" width="300"/>
+
+**Sistema completo de gestión de ventas de gas**
+
+📊 Reportes automáticos | 📈 Gráficos visuales | 🖥️ Interfaz intuitiva
+
+**Tech Stack:** `C#` `Windows Forms` `SQLite`
+
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
+
+---
+
+### 🎲 SorteaFácil
+
+<img src="sorteafacil.png" alt="SorteaFácil" width="300"/>
+
+**App Flutter para sorteos dinámicos y aleatorios**
+
+🎨 Temas personalizables | ⚡ Rendimiento optimizado | 📱 Diseño nativo
+
+**Tech Stack:** `Flutter` `Dart`
+
+[![Demo](https://img.shields.io/badge/🌐-Ver_Demo-00FFFF?style=for-the-badge)](https://sortea-facil.netlify.app/)
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
+
+---
+
+### 💰 Group Fund Tracker
+
+<img src="groupwallet.png" alt="Group Fund Tracker" width="300"/>
+
+**Gestión inteligente de gastos grupales**
+
+💸 Control de gastos | 📄 Reportes PDF | 📊 Análisis financiero
+
+**Tech Stack:** `Flutter` `Dart` `Hive`
+
+[![Code](https://img.shields.io/badge/📂-Código-181717?style=for-the-badge&logo=github)](https://github.com/rudy-gomez)
 
 </div>
 
-<p align="center"><sub>💡 Estas tarjetas se generan solas desde tus repos — solo asegúrate de que el <code>repo=</code> coincida con el nombre exacto en tu GitHub, y de tenerlos públicos con una buena descripción/topics.</sub></p>
-
 <br>
 
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=R0G8B&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=R0G8B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00C9A7&title_color=00C9A7" width="32%"/>
-<img src="https://streak-stats.demolab.com/?user=R0G8B&theme=tokyonight&hide_border=true&ring=00C9A7&fire=00C9A7" width="32%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0G8B&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7" width="32%"/>
-
-</div>
-
-<br>
-
-## 🏆 Trofeos
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=R0G8B&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-</div>
-
-<br>
-
-## 🐍 Contribuciones (animado)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/R0G8B/R0G8B/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<p align="center"><sub>👆 Esta serpiente animada se genera sola a partir de tu mapa de contribuciones — te dejo el archivo de configuración abajo para activarla en 2 minutos.</sub></p>
-
-<br>
 
 ## 🎓 Educación & Charlas
 
